@@ -67,10 +67,11 @@ nav {
 
 header {
     display: flex;
+    align-items: center;
     justify-content: space-between;
 
     svg {
-        width: 2.3em;
+        width: 2rem;
         height: auto;
         cursor: pointer;
     }
